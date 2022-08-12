@@ -27,16 +27,13 @@ I maintain open source projects here on GitHub and NPM.
 - very sporty and I like athletics,football,UFC, gym and swimming.
 - I'm a  tech enthusiast, have alot of it and  love to learn new technologies.
 - Occassionally  play  games (VR  and pc).
-- Beer pong! You might lose against me. 
+- Beer pong! You might lose against me. <br/>
 
 
 
 ### Languages and tools
-<br/>
+
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-
-
 <img align="left" alt="Rust" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
 
 <img align="left" alt="Rust" width="30px" src="https://miro.medium.com/max/900/1*LBHHLYrwLCSD0CYu-rfWMA.png" />
