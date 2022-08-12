@@ -2,7 +2,7 @@
 
 I'm self-taught fullstack software developer  and a chemEng grad.
 
-I maintain open source projects here on GitHub.
+I maintain open source projects here on GitHub and NPM.
 * [Sample fullstack apps and command line tools](https://github.com/spencerjibz?tab=repositories&q=&type=public&language=&sort=).
 * [mongocli-cient](https://www.npmjs.com/package/mongocli-client)
 * ... and hopefully more soon!
@@ -32,10 +32,11 @@ I maintain open source projects here on GitHub.
 
 
 ### Languages and tools
-<br/>
+
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="Rust" width="30px" src="https://miro.medium.com/max/900/1*LBHHLYrwLCSD0CYu-rfWMA.png" />
+<img align="left" alt="Rust" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
+
 
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
