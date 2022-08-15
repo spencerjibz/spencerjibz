@@ -24,7 +24,7 @@ I maintain open source projects here on GitHub and NPM.
 
 ### Fun facts
 
-- very sporty and I like athletics,football,UFC, gym and swimming.
+- very sporty.
 - I'm a  tech enthusiast, have alot of it and  love to learn new technologies.
 - Occassionally  play  games (VR  and PC).
 - Beer pong! You might lose against me. <br/>
