@@ -26,7 +26,7 @@ I maintain open source projects here on GitHub and NPM.
 
 - very sporty.
 - I'm a  tech enthusiast, have alot of it and  love to learn new technologies.
-- Occassionally  play  games (VR  and PC).
+- Occassionally  play  games (VR).
 - Beer pong! You might lose against me. <br/>
 
 
