@@ -22,12 +22,7 @@ I have a few  open source projects here on GitHub and NPM.
 
 
 
-### Fun facts
 
-- very sporty.
-- I'm a  tech enthusiast, have alot of it and  love to learn new technologies.
-- Occassionally  play  games (VR).
-- Beer pong! You might lose against me. <br/>
 
 
 
