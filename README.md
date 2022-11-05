@@ -62,4 +62,5 @@ I have a few  open source projects here on GitHub and NPM.
 ---
 <br>
 
- [![Spencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencerjibz&count_private=true)](https://github-readme-stats.vercel.app/api?username=spencerjibz&count_private=true)  
+<!--  [![Spencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencerjibz&count_private=true)](https://github-readme-stats.vercel.app/api?username=spencerjibz&count_private=true)  
+-->
