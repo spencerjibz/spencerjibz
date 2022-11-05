@@ -33,6 +33,7 @@ I have a few  open source projects here on GitHub and NPM.
 <img align="left" alt="Rust" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
 
 <img align="left" alt="Rust" width="30px" src="https://miro.medium.com/max/900/1*LBHHLYrwLCSD0CYu-rfWMA.png" />
+<img align="left" alt="WebAssembly" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg">
 
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
