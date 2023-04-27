@@ -1,7 +1,5 @@
 ### Hi there! , I'm Spencer.
 
-I'm self-taught fullstack software developer  and a chemEng grad.
-
 I have a few  open source projects here on GitHub and NPM.
 * [Sample fullstack apps and command line tools](https://github.com/spencerjibz?tab=repositories&q=&type=public&language=&sort=).
 * [mongocli-cient](https://www.npmjs.com/package/mongocli-client)
