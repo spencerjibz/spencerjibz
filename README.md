@@ -10,7 +10,6 @@ I have a few projects here on GitHub and NPM.
 
 [<img alt='codewars' align='left'   src="https://www.codewars.com/users/spencerjibz/badges/large"/>](https://www.codewars.com/users/spencerjibz) 
 
-[<img alt='codewars' align ="left" width="50px" src="https://img.icons8.com/color/344/khan-academy.png"/>](https://www.khanacademy.org/profile/spencerjibz) 
 
 
 
