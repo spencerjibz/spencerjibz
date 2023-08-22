@@ -2,6 +2,7 @@
 
 I have a few projects here on GitHub and NPM.
 * [Sample fullstack apps and command line tools](https://github.com/spencerjibz?tab=repositories&q=&type=public&language=&sort=).
+* [fileroom-sdk for both nodejs and browsers](https://www.npmjs.com/package/@dartroom/fileroom-sdk)
 * [mongocli-cient](https://www.npmjs.com/package/mongocli-client)
 * ... and hopefully more soon!
 
